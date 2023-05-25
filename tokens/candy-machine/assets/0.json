@@ -1,0 +1,20 @@
+{
+  "name": "Travel Image #0001",
+  "symbol": "TRL",
+  "description": "Collection of travelling views. These are downloaded from unsplash. This is the image 1/9.",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "view-type",
+      "value": "air view"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

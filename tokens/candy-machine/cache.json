@@ -1,0 +1,81 @@
+{
+  "program": {
+    "candyMachine": "5yecwrZyx7kvRVhoBMpevMzR4U2SqEbMVwPoVSGNxx7h",
+    "candyMachineCreator": "BSZThuw48TiGYdknqD4j4CzksxzpJaKWTn8ieUR1EhgB",
+    "collectionMint": "77uVT5ZMdyoCoWSFxS9UaYB8GdqAMemgsa1iedm8QzVb"
+  },
+  "items": {
+    "-1": {
+      "name": "Travel The World Collection",
+      "image_hash": "d3591182751ef56b0d5c9719c358a0dc5f4e7983af2160d488ee0216671949af",
+      "image_link": "https://arweave.net/R2RAJk_rVDJvE7tONt2N-QnH7e9jbzDZswMXD3U3IFU?ext=png",
+      "metadata_hash": "9905e9b7db8b4e9c5cca6a1347571b9bd183bc43338c3dfef875485052639b15",
+      "metadata_link": "https://arweave.net/TbDqwchnSnZhuvb47SWq1WpFWa8JYf10uDdN2hkQ6Oo",
+      "onChain": true
+    },
+    "0": {
+      "name": "Travel Image #0001",
+      "image_hash": "13a912ba602fe956f2e1ab233d87cc521cb5c3045ae08f7067d8455b35ab34e3",
+      "image_link": "https://arweave.net/NmqLR9xsWD4VHwXJfezZ5c581aPNl34u5o8vLZMnpt0?ext=png",
+      "metadata_hash": "fa0a75a45a65a6905958e765d4f29c60e74c45f854b6ac7b58ef4d8cd5c96836",
+      "metadata_link": "https://arweave.net/AdjO7aWEKBYOHCLRo11dLM4Z9cjNk3R_n_gARLzlWkQ",
+      "onChain": true
+    },
+    "1": {
+      "name": "Travel Image #0002",
+      "image_hash": "b8f692af7044b170d12c2272fd0d2518b528ca752b2721c42158eb2e4cb53cc7",
+      "image_link": "https://arweave.net/FL12VtQfyesLyUBqp41ZSWVG9FkUeBvN5SdTtbiuVbw?ext=png",
+      "metadata_hash": "20e868be9e6dc9439a776e2c28207b47a118916e1fb58a23674472bcfff3693b",
+      "metadata_link": "https://arweave.net/V71iUn8gxpPLhsbfN6pddDwwsqfvYeueAjIKEzzKcsg",
+      "onChain": true
+    },
+    "2": {
+      "name": "Travel Image #0003",
+      "image_hash": "2516e89052f778f1af8a20010eb438931f00d16ea432c1509a577afbe93aca1e",
+      "image_link": "https://arweave.net/_3VAFAfVgNbGjKO2uEGBiFvNToza1RbGy9d8tKqdULA?ext=png",
+      "metadata_hash": "c24e2ed71830481ecf6b22ec5a7098a5e1042b952a94ccf8698970f7f59aa084",
+      "metadata_link": "https://arweave.net/3yIeW4ew4DbU5eqCx6LXH3P8ZLW8_9C5XocgxP1k4N8",
+      "onChain": true
+    },
+    "3": {
+      "name": "Travel Image #0004",
+      "image_hash": "5cb799fa28b5bb4a54ab7a80db87c8570fc4360a6c2e98434cb0796aae54ee62",
+      "image_link": "https://arweave.net/x4aKNere4cyQD1eTGJ15UdaaB1NfbdHJfo3fAWJ9G24?ext=png",
+      "metadata_hash": "f9b947a784a615b1082e1d79d70099556b60d1cf9e1653753a7446476b04ebcf",
+      "metadata_link": "https://arweave.net/L29BusQ5xyHmRr4JVqf8os-rYQMUN98unekcnX5xrDo",
+      "onChain": true
+    },
+    "4": {
+      "name": "Travel Image #0005",
+      "image_hash": "e52ce982cfd4d3114ec11f3f7deac057f7e8e72b7ca2166af6ca86a0f504a751",
+      "image_link": "https://arweave.net/jMxoUUltYfZ3CuyBHCLsZMVy0DLi0JmHPRUeI8eTnr0?ext=png",
+      "metadata_hash": "9a247372572a10bb0a47ea4224d7de4c8e7dbc07ec3d4ffc95eb3510f28ad4df",
+      "metadata_link": "https://arweave.net/-U_4p4mhB4Qr2DKNqrmyBByBd8vhuscvSCqyiyHi7Yo",
+      "onChain": true
+    },
+    "5": {
+      "name": "Travel Image #0006",
+      "image_hash": "46671b3636c8eb7008e09edc42b130461f819a04619f182294925a6dacfc9a10",
+      "image_link": "https://arweave.net/eGn1hHi2sbMp_rIMEm6dWkkgr0-arFjf9ckg5v3n8uk?ext=png",
+      "metadata_hash": "0b35450a8a14e98b9715aeb1048c30b2739ac359803469929f0835e7deb0395e",
+      "metadata_link": "https://arweave.net/SQPc9us3ZSl3bxdhjbXfFmhJI9t_EkGEMUZO2qXTKDs",
+      "onChain": true
+    },
+    "6": {
+      "name": "Travel Image #0007",
+      "image_hash": "ef33a80ae0adc1fdc012c43319ae634e7ea9a55883da3ce36f48dd6ea236ddf5",
+      "image_link": "https://arweave.net/Mknm0mMaSWuvwnQTYO37NgOOXsH6ibGMxmRukKoU2jk?ext=png",
+      "metadata_hash": "e38e8fc84d8aa0250293b602cf71f5e0d5c86e6239d7610d10e11155f70ecc47",
+      "metadata_link": "https://arweave.net/ZhWyKxp7a0xwRwb9zXiGMQPipx8naj8It1D3AcMPiq0",
+      "onChain": true
+    },
+    "7": {
+      "name": "Travel Image #0008",
+      "image_hash": "e96413d13847c1e8c9c8493f043f2f9e32efc07af9ce5af11081c28406edfaf7",
+      "image_link": "https://arweave.net/LvK_oQJ1MxPI3qI266KZf5kEqZ8Wjj0m5IEbvLlY6Ds?ext=png",
+      "metadata_hash": "cb7e83bb24f7db8f35bfe056636af930ad3f84c12ef4b26c67dafd385c683436",
+      "metadata_link": "https://arweave.net/FnCbo0WLD5D6XsMXHR9V9H22_TnRgFxDvZnEmuWt_nI",
+      "onChain": true
+    }
+  }
+}

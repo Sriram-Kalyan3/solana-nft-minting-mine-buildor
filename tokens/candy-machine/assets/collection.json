@@ -1,0 +1,15 @@
+{
+  "name": "Travel The World Collection",
+  "symbol": "TRL",
+  "description": "Collection of 9 travelling candid pictures. These are taken from unsplash",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

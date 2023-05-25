@@ -1,0 +1,28 @@
+{
+  "name": "Travel Image #0008",
+  "symbol": "TRL",
+  "description": "Collection of travelling views. These are downloaded from unsplash. This is the image 8/9.",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "view-type",
+      "value": "portrait"
+    },
+    {
+      "trait_type": "objects",
+      "value": "book in hand"
+    },
+    {
+      "trait_type": "quotation",
+      "value": "bon voyage"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
