@@ -62,4 +62,16 @@ const NewMint: NextPage<NewMintProps> = ({ mint }) => {
   );
 };
 
+NewMint.getInitialProps = async ({ query }) => {
+  const { mint } = query;
+
+  if (!mint) throw { error: "no mint" };
+
+  try {
+    const mintPubkey = new PublicKey(mint);
+    return { mint: mintPubkey };
+  } catch {
+    throw { error: "invalid mint" };
+  }
+};
 export default NewMint;
